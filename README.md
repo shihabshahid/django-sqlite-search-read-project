@@ -1,0 +1,1 @@
+# django-sqlite-search-read-project
